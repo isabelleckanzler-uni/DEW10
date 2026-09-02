@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 20px;
+    background-color: #F2F2F2;
+}
+#menu {
+    background-color: #732F3B;
+    color: #fff;
+    padding: 20px; 
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    }
+
+h1{
+    text-align: center;
+    color: #732F3B;
+    margin-top: 20px;
+}
+
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:33%;  
+  float:left;
+  justify-content: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #A60321;
+    color: #fff;
+    margin-top: 40px;
+}
